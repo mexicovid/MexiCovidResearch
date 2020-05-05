@@ -1,19 +1,13 @@
----
-name: Diagnóstico de recursos físicos y humanos para atender la contingencia COVID-19
-description: Diagnóstico de recursos físicos y humanos para atender la contingencia COVID-19
-author: Grissel Olivera Martínez
-category: Economía
----
 # **Diagnóstico de recursos físicos y humanos para atender la contingencia COVID-19**
 
-Por Grissel Olivera Martínez[^1]
+Por Grissel Olivera Martínez\[1\]
 
 El 11 de marzo, cuando el presidente la OMS indicó que el brote de
 coronavirus debía considerarse como una pandemia, fue enfático en
 señalar que este virus sin precedentes representa una amenaza no solo a
 la salud sino también a la actividad económica global. Dada la gravedad
 de la situación, y reconociendo que algunos países no cuentan con
-recursos ni infraestructura médica, exhortó a "estar listos" y preparar
+recursos ni infraestructura médica, exhortó a “estar listos” y preparar
 hospitales (Organización Muncial de la Salud, 2020).
 
 De este modo, con el propósito de dimensionar la disponibilidad de
@@ -44,19 +38,19 @@ III) Valoración de la estrategia en cascada del personal médico para
 atender a enfermos por COVID-19 y IV) Disponibilidad potencial de
 personal médico.
 
-I.  **Disponibilidad de recursos físicos**
+1.  **Disponibilidad de recursos físicos**
 
 Para cuantificar de manera aproximada la infraestructura física se
 consideran dos indicadores: i) El número de camas en la Unidad de
 Cuidados Intensivos y ii) El número de camas en área de hospitalización.
 
 Las camas de las Unidades de Cuidados Intensivos (UCI) revelan
-información sobre la capacidad instalada para atender a pacientes graves
-que, por su situación crítica, requieren atención constante por
+información sobre la capacidad instalada para atender a pacientes
+graves que, por su situación crítica, requieren atención constante por
 intensivistas, mientras que las camas de hospitalización se destinan a
 la demanda de internamiento regular, pero representan la infraestructura
 que podría utilizarse ante una situación de contingencia ( Aguilar
-García & Martínez Torres, 2017)[^2].
+García & Martínez Torres, 2017)\[2\].
 
 Las **3, 826 camas de cuidados intensivos** disponibles únicamente
 representan la oferta de las unidades médicas del sector público; de las
@@ -70,17 +64,18 @@ Nacional (SDN), 1.62 en PEMEX, 1.30% en la Secretaría de Marina (SMA) y
 La **Gráfica 1** presenta el número de camas en la Unidad de Cuidados
 Intensivos; se observa que Nayarit es la entidad con menos capacidad
 para atender enfermos de terapia intensiva, mientras que la Ciudad de
-México (CDMX) es la que presenta más abastecimiento a nivel nacional (21
-versus 837).
+México (CDMX) es la que presenta más abastecimiento a nivel nacional
+(21 versus 837).
 
-Los estados que están por arriba de la media_grissel_1 nacional (119 camas en
+Los estados que están por arriba de la media nacional (119 camas en
 promedio) a parte de la CDMX son: el Estado de México, Nuevo León,
 Jalisco, Guanajuato, Puebla, Tamaulipas, Veracruz y Chihuahua; los que
 presentan mayor déficit son Baja California Sur, Colima y Zacatecas con
 75, 30 y 33 camas respectivamente.
 
 **Gráfica 1.**
-![](https://github.com/SeaWar741/TestBlog/blob/master/Articles_images/media_grissel_1/image1.png?raw=true)
+
+![](./media/image1.png)
 
 La gráfica anterior, muestra información relevante a nivel local, ya que
 tan solo entre la CDMX, el Estado de México y Puebla se concentra el
@@ -88,7 +83,7 @@ tan solo entre la CDMX, el Estado de México y Puebla se concentra el
 gráfica, la CDMX tiene más capacidad que otras entidades para hacer
 frente a una posible emergencia. Por el lado contrario, está Baja
 California que es la tercera entidad con más casos confirmados, pero tan
-solo tiene 75 camas de terapia intensiva[^3].
+solo tiene 75 camas de terapia intensiva\[3\].
 
 Las camas del área de hospitalización regularmente utilizadas para
 ofrecer atención y tratamiento de medicina general y diversas
@@ -103,14 +98,14 @@ En la **Gráfica 2** se presenta la distribución por estado de las
 concentra la mayor capacidad, con 15, 632 camas, Colima es el estado con
 menos camas de hospitalización, ya que solo cuenta con 649.
 
-Por arriba de la media_grissel_1 nacional (2, 799 camas), y sin considerar a la
+Por arriba de la media nacional (2, 799 camas), y sin considerar a la
 CDMX, los 5 estados más equipados son: Estado de México, Jalisco,
 Veracruz, Nuevo León y Puebla. Los cinco menos equipados (sin considerar
 Colima) son: B.C.S, Nayarit, Tlaxcala, Querétaro y Aguascalientes.
 
 **Gráfica 2**
 
-![](https://github.com/SeaWar741/TestBlog/blob/master/Articles_images/media_grissel_1/image2.png?raw=true)
+![](./media/image2.png)
 
 Si bien esta visualización da una aproximación al número de camas que
 existen es el país, el indicador más adecuado es el número de camas del
@@ -132,13 +127,13 @@ rezago en desarrollo económico.
 Cabe destacar que, a nivel nacional, el cálculo del número de camas por
 cada 1000 habitantes en áreas de hospitalización es 0.70, aparentemente
 es un número pequeño pero México cumple con los requisitos mínimos
-establecidos por la OMS[^4].
+establecidos por la OMS\[4\].
 
 **Gráfica 3.**
 
-![](https://github.com/SeaWar741/TestBlog/blob/master/Articles_images/media_grissel_1/image3.png?raw=true)
+![](./media/image3.png)
 
-II. **Disponibilidad de Profesionales de la salud**
+2.  **Disponibilidad de Profesionales de la salud**
 
 Uno de los grandes desafíos que enfrenta el sistema de salud mexicano
 ante la coyuntura de la pandemia por el COVID-19 es el déficit de
@@ -155,32 +150,30 @@ y familiares y el 60% tiene alguna especialidad.
 Tomando en cuenta aquellos médicos que tienen especialidad, únicamente
 el 27% **(28, 617 médicos)** son médicos internistas, urgenciólogos,
 neumólogos, infectólogos y anestesiólogos, considerados como
-especialistas críticos[^5] (ver Tabla 1).
+especialistas críticos\[5\] (ver Tabla 1).
 
 **Tabla 1. Distribución de médicos generales y especialistas**
 
-  |Total Médicos                   | **174, 536** |  **100%**|
-  |------------------------------- |--------------| ---------|
-  |Médicos generales y familiares   |69,896        | 40%|
-  |Médicos con especialidad         |104,640       | 60%|
-  |especialidad crítica             |28,617        | 27%|
-  |otras especialidades             |76,023        | 73%|
-
-
+| Total Médicos                  | **174, 536** | **100%** |
+| ------------------------------ | ------------ | -------- |
+| Médicos generales y familiares | 69,896       | 40%      |
+| Médicos con especialidad       | 104,640      | 60%      |
+| especialidad crítica           | 28,617       | 27%      |
+| otras especialidades           | 76,023       | 73%      |
 
 Fuente: Elaboración propia con datos de la Secretaría de Salud (2018).
 
 La **Gráfica 4** muestra el número de médicos generales y especialistas
-por cada 1000 habitantes. Tomando en cuenta que la media_grissel_1 nacional es de
+por cada 1000 habitantes. Tomando en cuenta que la media nacional es de
 1.45 médicos por cada 1000 habitantes, lo que destaca en esta gráfica es
 que **18 estados** tienen menos disponibilidad de médicos y los tres
 dentro más deficitarios están: el Estado de México, Puebla y Baja
-California; 14 estados superan la media_grissel_1 nacional y destacan la CDMX,
+California; 14 estados superan la media nacional y destacan la CDMX,
 Baja California y Campeche.
 
 **Gráfica 4.**
 
-![](https://github.com/SeaWar741/TestBlog/blob/master/Articles_images/media_grissel_1/image4.png?raw=true)
+![](./media/image4.png)
 
 El déficit de personal médico se acentúa aún más en el caso de médicos
 con especialidades críticas. La **Gráfica 5** muestra la distribución
@@ -195,7 +188,7 @@ urgenciólogos (23.6%), internistas (28.0%) y anestesiólogos (45.4%).
 
 **Gráfica 5.**
 
-![](https://github.com/SeaWar741/TestBlog/blob/master/Articles_images/media_grissel_1/image5.png?raw=true)
+![](./media/image5.png)
 
 En cuanto al personal de enfermería, existen **316, 096 enfermeros** en
 contacto con el paciente; 46% son enfermeros generales, 33% auxiliares,
@@ -204,12 +197,12 @@ especialidad (ver Tabla 2).
 
 **Tabla 1. Distribución de enfermeros en contacto con el paciente**
 
-  Enfermeros en contacto con paciente   **316,096**   **100%**
-  ------------------------------------- ------------- ----------
-  Enfermería general                    144,784       46%
-  Enfermería especialista               36,602        12%
-  Enfermería auxiliar                   104,853       33%
-  Enfermería pasante                    29,857        9%
+| Enfermeros en contacto con paciente | **316,096** | **100%** |
+| ----------------------------------- | ----------- | -------- |
+| Enfermería general                  | 144,784     | 46%      |
+| Enfermería especialista             | 36,602      | 12%      |
+| Enfermería auxiliar                 | 104,853     | 33%      |
+| Enfermería pasante                  | 29,857      | 9%       |
 
 Fuente: Elaboración propia con datos de la Secretaría de Salud (2018).
 
@@ -222,12 +215,12 @@ menor número de enfermeros.
 
 **Gráfica 6.**
 
-![](https://github.com/SeaWar741/TestBlog/blob/master/Articles_images/media_grissel_1/image6.png?raw=true)
+![](./media/image6.png)
 
-III. **Valoración de la estrategia en cascada**
+3.  **Valoración de la estrategia en cascada**
 
 Ante la falta de profesionales de la salud, la estrategia que se propone
-para organizar al personal médico se basa en la atención en "cascada",
+para organizar al personal médico se basa en la atención en “cascada”,
 donde un médico intensivista tendrá a su cargo cinco médicos generales
 (o especialistas de áreas no críticas) y, a su vez, cada uno de ellos
 atenderá a cinco pacientes contagiados por COVID-19. Este mismo esquema
@@ -248,7 +241,7 @@ de los estados, más o menos cumple con esa dualidad.
 
 **Gráfica 7**
 
-![](https://github.com/SeaWar741/TestBlog/blob/master/Articles_images/media_grissel_1/image7.png?raw=true)
+![](./media/image7.png)
 
 En la **Gráfica 8** se presentan dos indicadores o razones: 1) médicos
 generales u otras especialidades no críticas con respecto a médicos
@@ -265,14 +258,14 @@ cuanto al personal de enfermería, los estados que tienen una menor
 proporción de enfermeros generales respecto a especialistas son: la
 CDMX, Nuevo León, Yucatán, Estado de México, Tamaulipas y Nayarit. Las
 dos visualizaciones de esta sección reflejan, de manera aproximada,
-cuáles son las entidades que podrían fallar con la estrategia de cascada
-ante la falta de personal médico especialista.
+cuáles son las entidades que podrían fallar con la estrategia de
+cascada ante la falta de personal médico especialista.
 
 **Gráfica 8**
 
-![](https://github.com/SeaWar741/TestBlog/blob/master/Articles_images/media_grissel_1/image8.png?raw=true)
+![](./media/image8.png)
 
-IV. **Disponibilidad potencial de personal médico**
+4.  **Disponibilidad potencial de personal médico**
 
 > Finalmente, la **Gráfica 9** representa la distribución porcentual de
 > los médicos en formación que, como consecuencia de la gravedad de la
@@ -281,10 +274,10 @@ IV. **Disponibilidad potencial de personal médico**
 > pregrado, residentes y pasantes que suman **52, 734** médicos, el
 > 49.4% son residentes, el 25.7% son internos de pregrado y el 24.9 son
 > pasantes.
->
+> 
 > **Gráfica 9**
->
-> ![](https://github.com/SeaWar741/TestBlog/blob/master/Articles_images/media_grissel_1/image9.png?raw=true)
+> 
+> ![](./media/image9.png)
 
 **Reflexión final**
 
@@ -313,7 +306,7 @@ siguiente de esta investigación.
 Aguilar García, C., & Martínez Torres, C. (2017). La realidad de la
 Unidad de Cuidados Intensivos. *Medicina crítica (Colegio Mexicano de
 Medicina Crítica)*, 171-173. Recuperado el 16 de Abril de 2020, de
-http://www.scielo.org.mx/scielo.php?script=sci\_arttext&pid=S2448-89092017000300171Consejo
+http://www.scielo.org.mx/scielo.php?script=sci\_arttext\&pid=S2448-89092017000300171Consejo
 Nacional de Población . (20 de Abril de 2020). *Proyecciones de la
 Población de México y de las Entidades Federativas, 2016-2050*. Obtenido
 de Proyecciones de la Población de México y de las Entidades
@@ -327,7 +320,7 @@ http://www.mexicocontracovid.salud.gob.mx/doctos/Desplegado-SALUD-.pdfOrganizaci
 Muncial de la Salud. (2020). Alocución de apertura del Director General
 de la OMS en la rueda de prensa sobre la COVID-19 celebrada el 11 de
 marzo de 2020. Obtenido de
-https://www.who.int/es/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media_grissel_1-briefing-on-covid-19\-\--11-march-2020Secretaria
+https://www.who.int/es/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020Secretaria
 de Salud. (2004). *NORMA Oficial Mexicana NOM-040-SSA2-2004, En materia
 de información en salud.* Obtenido de
 http://www.salud.gob.mx/unidades/cdi/nom/040ssa204.htmlSecretaria de
@@ -342,22 +335,22 @@ de Salud. (20 de Abril de 2020). *Recursos en salud, nivel central*.
 Obtenido de Recursos en Salud 2018:
 https://datos.gob.mx/busca/dataset/recursos-en-salud-nivel-central/resource/6048bcac-c40f-4317-ae36-3a3b47820ec7
 
-[^1]: ^∗^ Grissel es doctora en Ciencias Económicas por la Universidad
-    Autónoma de Nuevo León y es profesora del Departamento de Economía
-    del Tecnológico de Monterrey ([@Grissel_Olivera](https://twitter.com/grissel_olivera)).
+1.  <sup>∗</sup> Grissel es doctora en Ciencias Económicas por la
+    Universidad Autónoma de Nuevo León y es profesora del Departamento
+    de Economía del Tecnológico de Monterrey (@grissel\_olivera).
 
-[^2]: Según la Norma Oficial Mexicana NOM-040-SSA2-2004 las camas de
+2.  Según la Norma Oficial Mexicana NOM-040-SSA2-2004 las camas de
     cuidados intensivos son no censables porque son transitorias y no
     genera egresos hospitalarios, es por ello que se presenta su
     distribución estatal en números absolutos, pero las camas de
     hospitalización usadas para atención regular de internamiento se
     cuantifican en términos relativos (Secretaria de Salud, 2004).
 
-[^3]: El número de camas entre Nayarit y Tlaxcala y entre Coahuila y
+3.  El número de camas entre Nayarit y Tlaxcala y entre Coahuila y
     Chihuahua son iguales, pero se verifico doblemente esta
     coincidencia.
 
-[^4]: (El Universal, 2015).
+4.  (El Universal, 2015).
 
-[^5]: Se consideran especialidades críticas no solo por su mayor
-    demanda, sino también por su poca oferta.
+5.  Se consideran especialidades críticas no solo por su mayor demanda,
+    sino también por su poca oferta.

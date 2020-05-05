@@ -1,26 +1,21 @@
----
-name: Acercamiento a las probabilidades de hospitalización por grupo de edad a nivel nacional
-description: Acercamiento a las probabilidades de hospitalización por grupo de edad a nivel nacional
-author: Alejandro Díaz Domínguez
-category: Estadística
----
-# **Acercamiento a las probabilidades de hospitalización por grupo de edad a nivel nacional**
+*ACERCAMIENTO A LAS PROBABILIDADES DE HOSPITALIZACIÓN POR GRUPO DE EDAD
+A NIVEL NACIONAL*
 
-Por Alejandro Díaz Domínguez\*
+**por ALEJANDRO DÍAZ DOMINGUEZ\***
 
 **E**n términos del modelo para difusión estimado por doctora Natalie E.
 Dean, especialista en epidemiología de enfermedades infecciosas
 emergentes y profesora en la Universidad de Florida
-([\@nataliexdean](https://twitter.com/nataliexdean)) para el caso de
+([@nataliexdean](https://twitter.com/nataliexdean)) para el caso de
 Nueva York (1), el número de hospitalizaciones por grupo de edad por
 coronavirus depende de contar con al menos la siguiente información:
 
--   El tamaño del grupo de edad (¿cuántas personas tienen esa edad?).
+  - El tamaño del grupo de edad (¿cuántas personas tienen esa edad?).
 
--   Probabilidad de infección en ese grupo de edad (¿con qué frecuencia
+  - Probabilidad de infección en ese grupo de edad (¿con qué frecuencia
     se está expuesto?).
 
--   Probabilidad de hospitalización una vez infectado, ello para el
+  - Probabilidad de hospitalización una vez infectado, ello para el
     grupo de edad correspondiente.
 
 El cálculo es relativamente sencillo. Se divide el porcentaje de
@@ -28,21 +23,21 @@ personas hospitalizadas entre el porcentaje de población que pertenece a
 cada grupo de edad. Esto nos da una razón. Posteriormente se opta por un
 grupo como referencia para estandarizar las razones y estar en aptitud
 de realizar comparaciones apropiadas. Se procede a convertir en valor
-"uno" al grupo de edad de referencia, mientras que los valores restantes
-serán las X veces más probable que cada grupo tiene de ser hospitalizado
-en relación con el grupo referencia.
+“uno” al grupo de edad de referencia, mientras que los valores
+restantes serán las X veces más probable que cada grupo tiene de ser
+hospitalizado en relación con el grupo referencia.
 
 Para ello se requeriría información realmente desagregada, tal como:
 
--   Género
+  - Género
 
--   Edad
+  - Edad
 
--   Fecha de prueba positiva
+  - Fecha de prueba positiva
 
--   Fecha de hospitalización
+  - Fecha de hospitalización
 
--   Entidad federativa
+  - Entidad federativa
 
 Si bien esta información no se presenta desglosada en la base de datos
 de casos positivos, en el reporte del 4 de abril de 2020, ya se ofreció
@@ -59,7 +54,7 @@ hospitalizados reportado ese día.
 Posteriormente se obtuvo una razón de población entre hospitalización
 por grupo de edad. Se definió a un grupo como referencia, en este caso,
 el grupo de 25 a 29 años. Esto permite estandarizar para convertir en
-"uno" al grupo referencia y obtener las veces que es más probable que
+“uno” al grupo referencia y obtener las veces que es más probable que
 las personas integrantes de cada grupo sean hospitalizadas.
 
 En la tabla que sirve de ejemplo para este ejercicio, se observa que por
@@ -68,28 +63,196 @@ veces más probable que una persona de 65 años o mayor también tenga que
 serlo o 5 veces más probable quienes tengan entre 55 y 59 años, según se
 observa en la columna E.
 
-##### Tabla 1. Hospitalización por grupo de edad ("veces que es más probable"), México 2020
+Tabla 1. Hospitalización por grupo de edad (“veces que es más
+probable”), México 2020
 
-|            |A            |B            |C            |D            |E                 |F            |
-|------------|-------------|-------------|-------------|-------------|------------------|-------------|
-|Grupo       |Pob %        |Hosp %       |Razón        |Referencia   |Veces más probable|Hosp abs     |
-|            |             |             |F/Total      |B/A          |C/D               |             |
-|0-4 años    |8.5%         |0.9%         |0.110        |0.502        |0.2               |4            |
-|5-9 años    |8.7%	       |0.0%	|0.000|	0.502|	0.0|	 	0|
-|10-14 años  |8.6%	       |0.0%	|0.000|	0.502|	0.0|	 	0|
-|15-19 años	 |8.7%	       |1.2%	|0.134|	0.502|	0.3|	 	5|
-|20-24 años	 |8.5%	       |1.2%	|0.138|	0.502|	0.3|	 	5|
-|25-29 años	 |8.4%	       |4.2%	|0.502|	0.502|	1.0|	 	18|
-|30-34 años	 |7.6%	       |8.2%	|1.077|	0.502|	2.1|	 	35|
-|35-39 años	 |7.1%	       |7.9%	|1.127|	0.502|	2.2|	 	34|
-|40-44 años	 |6.6%	       |9.6%	|1.448|	0.502|	2.9|	 	41|
-|45-49 años	 |6.2%	       |11.7%	|1.879|	0.502|	3.7|	 	50|
-|50-54 años	 |5.4%	       |11.7%	|2.175|	0.502|	4.3|	 	50|
-|55-59 años	 |4.5%	       |11.7%	|2.582|	0.502|	5.1|	 	50|
-|60-64 años	 |3.6%	       |8.6%	|2.387|	0.502|	4.8|	 	37|
-|65 años +	 |7.6%	       |23.1%	|3.036|	0.502|	6.0|	 	99|
-
-Fuentes: A= pirámide poblacional CONAPO 2020; B y F= distribución de casos por grupo de edad, reporte 4 abril 2020, Secretaría de Salud. Gran total= 1,890 positivos, 78% ambulatorios y 22% hospitalizados; B= corresponde al 22% de hospitalizados, cuyo total es 428. Cifras a nivel nacional.
+<table>
+<thead>
+<tr class="header">
+<th>Fuentes: A= pirámide poblacional CONAPO 2020; B y F= distribución de casos por grupo de edad, reporte 4 abril 2020, Secretaría de Salud. Gran total= 1,890 positivos, 78% ambulatorios y 22% hospitalizados; B= corresponde al 22% de hospitalizados, cuyo total es 428. Cifras a nivel nacional.</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td> </td>
+<td>A</td>
+<td>B</td>
+<td>C</td>
+<td>D</td>
+<td>E</td>
+<td> </td>
+<td>F</td>
+</tr>
+<tr class="even">
+<td>Grupo</td>
+<td>Pob %</td>
+<td>Hosp %</td>
+<td>Razón</td>
+<td>Referencia</td>
+<td>Veces más<br />
+probable</td>
+<td> </td>
+<td>Hosp abs</td>
+</tr>
+<tr class="odd">
+<td> </td>
+<td> </td>
+<td>F / total</td>
+<td>B/A</td>
+<td> </td>
+<td>C/D</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="even">
+<td>0-4 años</td>
+<td>8.5%</td>
+<td>0.9%</td>
+<td>0.110</td>
+<td>0.502</td>
+<td>0.2</td>
+<td> </td>
+<td>4</td>
+</tr>
+<tr class="odd">
+<td>5-9 años</td>
+<td>8.7%</td>
+<td>0.0%</td>
+<td>0.000</td>
+<td>0.502</td>
+<td>0.0</td>
+<td> </td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>10-14 años</td>
+<td>8.6%</td>
+<td>0.0%</td>
+<td>0.000</td>
+<td>0.502</td>
+<td>0.0</td>
+<td> </td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>15-19 años</td>
+<td>8.7%</td>
+<td>1.2%</td>
+<td>0.134</td>
+<td>0.502</td>
+<td>0.3</td>
+<td> </td>
+<td>5</td>
+</tr>
+<tr class="even">
+<td>20-24 años</td>
+<td>8.5%</td>
+<td>1.2%</td>
+<td>0.138</td>
+<td>0.502</td>
+<td>0.3</td>
+<td> </td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td><strong>25-29 años</strong></td>
+<td>8.4%</td>
+<td>4.2%</td>
+<td><strong>0.502</strong></td>
+<td>0.502</td>
+<td><strong>1.0</strong></td>
+<td> </td>
+<td>18</td>
+</tr>
+<tr class="even">
+<td>30-34 años</td>
+<td>7.6%</td>
+<td>8.2%</td>
+<td>1.077</td>
+<td>0.502</td>
+<td>2.1</td>
+<td> </td>
+<td>35</td>
+</tr>
+<tr class="odd">
+<td>35-39 años</td>
+<td>7.1%</td>
+<td>7.9%</td>
+<td>1.127</td>
+<td>0.502</td>
+<td>2.2</td>
+<td> </td>
+<td>34</td>
+</tr>
+<tr class="even">
+<td>40-44 años</td>
+<td>6.6%</td>
+<td>9.6%</td>
+<td>1.448</td>
+<td>0.502</td>
+<td>2.9</td>
+<td> </td>
+<td>41</td>
+</tr>
+<tr class="odd">
+<td>45-49 años</td>
+<td>6.2%</td>
+<td>11.7%</td>
+<td>1.879</td>
+<td>0.502</td>
+<td>3.7</td>
+<td> </td>
+<td>50</td>
+</tr>
+<tr class="even">
+<td>50-54 años</td>
+<td>5.4%</td>
+<td>11.7%</td>
+<td>2.175</td>
+<td>0.502</td>
+<td>4.3</td>
+<td> </td>
+<td>50</td>
+</tr>
+<tr class="odd">
+<td>55-59 años</td>
+<td>4.5%</td>
+<td>11.7%</td>
+<td>2.582</td>
+<td>0.502</td>
+<td>5.1</td>
+<td> </td>
+<td>50</td>
+</tr>
+<tr class="even">
+<td>60-64 años</td>
+<td>3.6%</td>
+<td>8.6%</td>
+<td>2.387</td>
+<td>0.502</td>
+<td>4.8</td>
+<td> </td>
+<td>37</td>
+</tr>
+<tr class="odd">
+<td><strong>65 años +</strong></td>
+<td>7.6%</td>
+<td>23.1%</td>
+<td>3.036</td>
+<td>0.502</td>
+<td><strong>6.0</strong></td>
+<td> </td>
+<td>99</td>
+</tr>
+</tbody>
+</table>
 
 Este ejercicio es una estimación muy general que simplemente permite
 asomarse a una somera idea sobre qué grupos de edad resultarían más
@@ -123,10 +286,10 @@ al dato de frecuencia de exposición y con ello poder calcular las veces
 en las cuales es más probable observar hospitalización según un grupo de
 edad determinado.
 
-\(1\) "An EPI 101 tutorial...":
-https://twitter.com/nataliexdean/status/1241507113429610503?s=20\
+(1) “An EPI 101 tutorial…”:
+https://twitter.com/nataliexdean/status/1241507113429610503?s=20  
 (2) Casos positivos por grupos de edad a nivel nacional:
-https://coronavirus.gob.mx/\
+https://coronavirus.gob.mx/  
 (3) CONAPO y SINAIS:
 http://www.dgis.salud.gob.mx/contenidos/basesdedatos/bdc\_poblacion\_gobmx.html
 
