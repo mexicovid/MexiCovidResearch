@@ -13,7 +13,7 @@ reporte del 18 de abril.
 Tabla 1. Hospitalización por grupo de edad (“veces que es más
 probable”), México 2020
 
-| Fuentes: A= pirámide poblacional CONAPO 2020; B y F= distribución de casos por grupo de edad, reportes 4 y 18 abril 2020, Sría de Salud. Total 18 abril = 7,497 positivos, 63.1% ambulatorios y 36. 9% hospitalizados; B= suma el 36.9% hospitalizado (total= 2763) |       |           |       |                        |                       |                |               |
+|       |           |       |                        |                       |                |               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --------- | ----- | ---------------------- | --------------------- | -------------- | ------------- |
 |                                                                                                                                                                                                                                                                     | A     | B         | C     | D                      |                       | F              |               |
 | Grupo                                                                                                                                                                                                                                                               | Pob % | Hosp %    | Razón | Veces + prob **18abr** | Veces + prob **4abr** | Hosp abs 18abr | Hosp abs 4abr |
@@ -32,6 +32,8 @@ probable”), México 2020
 | 55-59 años                                                                                                                                                                                                                                                          | 0.045 | 0.125     | 2.757 | 6.5                    | 5.1                   | 345            | 50            |
 | 60-64 años                                                                                                                                                                                                                                                          | 0.036 | 0.102     | 2.805 | 6.6                    | 4.8                   | 281            | 37            |
 | 65 años +                                                                                                                                                                                                                                                           | 0.076 | 0.243     | 3.184 | **7.5**                | **6.0**               | 671            | 99            |
+
+*Fuentes: A= pirámide poblacional CONAPO 2020; B y F= distribución de casos por grupo de edad, reportes 4 y 18 abril 2020, Sría de Salud. Total 18 abril = 7,497 positivos, 63.1% ambulatorios y 36. 9% hospitalizados; B= suma el 36.9% hospitalizado (total= 2763)*
 
 El 4 de abril por cada persona confirmada como positiva por covid19
 entre 25 y 29 años, era 6 veces más probable que se hospitalizara a una

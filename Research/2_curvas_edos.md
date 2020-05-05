@@ -57,7 +57,7 @@ pasamos de la “fase” de rezago o crecimiento lento en un inicio, a una
 significa lo que ya es evidente, es decir, nos falta un relativamente
 largo trecho por recorrer.
 
-![](./media/image1.emf)
+![curvasedosfinal](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/2_curvas_edos/curvasedosfinal.jpeg?raw=true)
 
 (1) Secretaría de Salud. Información internacional y nacional sobre
 nuevo coronavirus (COVID-2019):

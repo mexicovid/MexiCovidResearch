@@ -75,7 +75,7 @@ presentan mayor déficit son Baja California Sur, Colima y Zacatecas con
 
 **Gráfica 1.**
 
-![](./media/image1.png)
+![Grafica1](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/1_analisis_recursos_humanos/image1.png?raw=true)
 
 La gráfica anterior, muestra información relevante a nivel local, ya que
 tan solo entre la CDMX, el Estado de México y Puebla se concentra el
@@ -105,7 +105,7 @@ Colima) son: B.C.S, Nayarit, Tlaxcala, Querétaro y Aguascalientes.
 
 **Gráfica 2**
 
-![](./media/image2.png)
+![Grafica2](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/1_analisis_recursos_humanos/image2.png?raw=true)
 
 Si bien esta visualización da una aproximación al número de camas que
 existen es el país, el indicador más adecuado es el número de camas del
@@ -131,7 +131,7 @@ establecidos por la OMS\[4\].
 
 **Gráfica 3.**
 
-![](./media/image3.png)
+![Grafica3](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/1_analisis_recursos_humanos/image3.png?raw=true)
 
 2.  **Disponibilidad de Profesionales de la salud**
 
@@ -173,7 +173,7 @@ Baja California y Campeche.
 
 **Gráfica 4.**
 
-![](./media/image4.png)
+![Grafica4](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/1_analisis_recursos_humanos/image4.png?raw=true)
 
 El déficit de personal médico se acentúa aún más en el caso de médicos
 con especialidades críticas. La **Gráfica 5** muestra la distribución
@@ -188,7 +188,7 @@ urgenciólogos (23.6%), internistas (28.0%) y anestesiólogos (45.4%).
 
 **Gráfica 5.**
 
-![](./media/image5.png)
+![Grafica5](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/1_analisis_recursos_humanos/image5.png?raw=true)
 
 En cuanto al personal de enfermería, existen **316, 096 enfermeros** en
 contacto con el paciente; 46% son enfermeros generales, 33% auxiliares,
@@ -215,7 +215,7 @@ menor número de enfermeros.
 
 **Gráfica 6.**
 
-![](./media/image6.png)
+![Grafica6](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/1_analisis_recursos_humanos/image6.png?raw=true)
 
 3.  **Valoración de la estrategia en cascada**
 
@@ -241,7 +241,7 @@ de los estados, más o menos cumple con esa dualidad.
 
 **Gráfica 7**
 
-![](./media/image7.png)
+![Grafica7](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/1_analisis_recursos_humanos/image7.png?raw=true)
 
 En la **Gráfica 8** se presentan dos indicadores o razones: 1) médicos
 generales u otras especialidades no críticas con respecto a médicos
@@ -263,22 +263,21 @@ cascada ante la falta de personal médico especialista.
 
 **Gráfica 8**
 
-![](./media/image8.png)
+![Grafica8](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/1_analisis_recursos_humanos/image8.png?raw=true)
 
 4.  **Disponibilidad potencial de personal médico**
 
-> Finalmente, la **Gráfica 9** representa la distribución porcentual de
-> los médicos en formación que, como consecuencia de la gravedad de la
-> contingencia, podrían formar parte de la oferta laboral para atender
-> enfermos por COVID-19. Los médicos en formación son internos de
-> pregrado, residentes y pasantes que suman **52, 734** médicos, el
-> 49.4% son residentes, el 25.7% son internos de pregrado y el 24.9 son
-> pasantes.
-> 
-> **Gráfica 9**
-> 
-> ![](./media/image9.png)
-
+ Finalmente, la **Gráfica 9** representa la distribución porcentual de
+ los médicos en formación que, como consecuencia de la gravedad de la
+ contingencia, podrían formar parte de la oferta laboral para atender
+ enfermos por COVID-19. Los médicos en formación son internos de
+ pregrado, residentes y pasantes que suman **52, 734** médicos, el
+ 49.4% son residentes, el 25.7% son internos de pregrado y el 24.9 son
+ pasantes.
+ 
+ **Gráfica 9**
+ 
+ ![Grafica9](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/1_analisis_recursos_humanos/image9.png?raw=true)
 **Reflexión final**
 
 La emergencia sanitaria por COVI-19 representa una oportunidad para

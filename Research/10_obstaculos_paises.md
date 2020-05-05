@@ -38,7 +38,7 @@ introducen prohibiciones y restricciones a la exportación como resultado
 de COVID-19, por categorías de productos.*
 
 ![Captura de pantalla 2020-04-26 a la(s)
-21.49.44.png](./media/image1.png)
+21.49.44.png](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/10_obstaculos_paises/image1.png?raw=true)
 
 *Fuente: Organización Mundial de Comercio*
 
@@ -250,7 +250,7 @@ protector en donde se encuentran clasificadas las mascarillas (HTSUS
 moderados o altos en el mundo.*
 
 ![Captura de pantalla 2020-04-26 a la(s)
-22.46.12.png](./media/image2.png)
+22.46.12.png](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/10_obstaculos_paises/image2.png?raw=true)
 
 *Fuente: Global Trade Alert*
 

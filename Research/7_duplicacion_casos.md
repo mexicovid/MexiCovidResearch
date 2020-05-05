@@ -49,7 +49,7 @@ realizar análisis más detallados para conocer qué factores influyen en
 la variación observada en el número de días que toma observar la citada
 duplicación.
 
-![Image](./media/image1.jpeg)
+![Grafica1](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/7_duplicacion_casos/image1.jpeg?raw=true)
 
 Una aplicación del tiempo de duplicación se encuentra en los análisis
 por región autonómica para el caso español elaborados por Kiko Llaneras

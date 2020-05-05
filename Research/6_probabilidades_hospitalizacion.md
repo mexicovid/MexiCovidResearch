@@ -66,17 +66,8 @@ observa en la columna E.
 Tabla 1. Hospitalización por grupo de edad (“veces que es más
 probable”), México 2020
 
+
 <table>
-<thead>
-<tr class="header">
-<th>Fuentes: A= pirámide poblacional CONAPO 2020; B y F= distribución de casos por grupo de edad, reporte 4 abril 2020, Secretaría de Salud. Gran total= 1,890 positivos, 78% ambulatorios y 22% hospitalizados; B= corresponde al 22% de hospitalizados, cuyo total es 428. Cifras a nivel nacional.</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
 </tr>
 </thead>
 <tbody>
@@ -253,6 +244,8 @@ probable</td>
 </tr>
 </tbody>
 </table>
+
+*Fuentes: A= pirámide poblacional CONAPO 2020; B y F= distribución de casos por grupo de edad, reporte 4 abril 2020, Secretaría de Salud. Gran total= 1,890 positivos, 78% ambulatorios y 22% hospitalizados; B= corresponde al 22% de hospitalizados, cuyo total es 428. Cifras a nivel nacional.*
 
 Este ejercicio es una estimación muy general que simplemente permite
 asomarse a una somera idea sobre qué grupos de edad resultarían más

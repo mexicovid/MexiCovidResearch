@@ -1,4 +1,4 @@
-# **RECUENTO Y EXPLORACIÓN DE LAS CIFRAS DE PRUEBAS DE COVID-19 REALIZADAS POR LA AUTORIDAD FEDERAL (CON FECHA DE CORTE DEL 17 DE ABRIL)**
+# **Recuento y exploración de las cifras de pruebas de COVID-19 realizadas por la autoridad federal (con fecha de corte del 17 de abril)**
 
 Por Roberto Ponce López
 
@@ -30,7 +30,7 @@ institución.
 Figura 1. Porcentaje de pruebas realizadas por tipo de institución que
 brindó la atención(corte al 17 de abril)
 
-![](./media/image1.png)
+![Grafica1](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/5_cifras/image1.png?raw=true)
 
 De manera lógica, el número de pruebas ha seguido una trayectoria
 ascendente conforme la pandemia ha evolucionado y lo días transcurren.
@@ -106,7 +106,7 @@ centinela? Analicemos con mayor detalle las pruebas USMER y no USMER.
 
 ### Figura 2. Número de pruebas USMER y No USMER por fecha
 
-![](./media/image2.png)
+![Grafica2](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/5_cifras/image2.png?raw=true)
 
 El lector y lectora pueden apreciar la evolución de las curvas con las
 primeras pruebas realizadas en enero. Los sitios USMER comenzaron a
@@ -146,7 +146,7 @@ tipo cada caso confirmado equivale a x8 allá afuera.
 
 ### Figura 3. Árbol de Número de Pruebas por diagnóstico, origen, sector y hospitalización
 
-![](./media/image3.png)
+![Grafica3](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/5_cifras/image3.png?raw=true)
 
 El grupo mayoritario de pruebas corresponde a pacientes ambulatorios que
 acuden a un hospital No USMER de la SSA para realizar la prueba; la
@@ -173,8 +173,7 @@ distribución de las pruebas por entidad federativa.
 
 ### Figura 4. Porcentaje de pruebas por estado (eje y) versus porcentaje de población por estado (eje x). Instrucción: pasar cursor por encima de cada punto para desplegar su información.
 
-![](./media/image4.png)
-
+![Grafica4](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/5_cifras/image4.png?raw=true)
 La Figura 4 muestra la distribución poblacional y de pruebas por estado
 en porcentajes. En otras palabras, cada eje representa el porcentaje de
 las pruebas que han sido tomadas en la entidad federativa y el
@@ -209,7 +208,7 @@ seguridad social están realizando más pruebas.
 
 ### Figura 5. Porcentaje de pruebas por estado (eje y) versus porcentaje de población derechohabiente al IMSS e ISSSTE por estado (eje x). Instrucción: pasar cursor por encima de cada punto para desplegar su información.
 
-![](./media/image5.png)
+![Grafica5](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/5_cifras/image5.png?raw=true)
 
 En la Figura 5 no se observa un patrón o pendiente en los datos. Es
 decir, no se puede afirmar que el gobierno esté realizando más pruebas
@@ -226,7 +225,7 @@ cifra federal y el agregado de las cifras estatales.
 
 ### Figura 6. Porcentaje de diferencia en las cifras de confirmados y fallecidos reportadas por los estados respecto a las cifras federales.
 
-![](./media/image6.png)
+![Grafica6](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/5_cifras/image6.png?raw=true)
 
 La Figura 6 muestra que el mayor porcentaje de variación entre las
 cifras estatales y la federal ocurre con los fallecidos. Las entidades
