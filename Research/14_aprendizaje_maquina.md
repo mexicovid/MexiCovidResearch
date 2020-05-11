@@ -52,7 +52,7 @@ fallecimiento es del 2 por ciento.
 
 Figura 1. Árbol de clasificación, fallecimientos por covid19 en México
 
-![](./media/image1.jpeg)
+![](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/13_aprendizaje_maquina/image1.jpeg?raw=true)
 
 Si la persona fue hospitalizada pero no fue intubada, la probabilidad es
 del 19 por ciento. Ahora bien, si la persona fue hospitalizada y además
@@ -128,7 +128,7 @@ exactitud del 88.4 (entre 87.9 y 88.9 por ciento).
 Figura 2. Árbol de clasificación, hospitalizaciones por covid19 en
 México
 
-![](./media/image2.tiff)
+![imagen1](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/13_aprendizaje_maquina/image2.PNG?raw=true)
 
 **Conclusiones preliminares**
 
