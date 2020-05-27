@@ -40,7 +40,7 @@ cambios de patrones de actividad en los fines de semana. La Ilustración
 1 visualiza estos resultados.
 
 ![A close up of a logo Description automatically
-generated](./media/image1.png)
+generated](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/16_exploracion_movilidad/image1.png?raw=true)
 
 Ilustración 1. Promedios móviles de 5 días para los valores de actividad
 en las 32 entidades federativas.
@@ -98,7 +98,7 @@ comportamiento de la actividad respecto a la línea base de medición por
 actividad para cada uno de los estados.
 
 ![A close up of text on a white background Description automatically
-generated](./media/image2.png)
+generated](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/16_exploracion_movilidad/image2.png?raw=true)
 
 Ilustración 2. Promedios móviles de 5 días para los valores de
 actividad.
@@ -159,7 +159,7 @@ los datos. La Ilustración 3 muestra la correlación e las variables por
 fecha para las 24 componentes.
 
 ![A close up of a piece of paper Description automatically
-generated](./media/image3.png)
+generated](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/16_exploracion_movilidad/image3.png?raw=true)
 
 Ilustración 3. Correlación de componentes principales y las 24 variables
 de actividad por fecha (rr= retail, gr=groceries, tr=transit,
@@ -187,7 +187,7 @@ componentes y no dos. Exploremos la composición de cada grupo de
 estados.
 
 ![A close up of a map Description automatically
-generated](./media/image4.png)
+generated](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/16_exploracion_movilidad/image4.png?raw=true)
 
 Ilustración 4. Distribución de las 32 Entidades Federativas en las dos
 primeras componentes y por grupo resultante del kmeans clustering

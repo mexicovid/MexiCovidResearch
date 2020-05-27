@@ -55,6 +55,8 @@ extracción de los datos satelitales se realizó mediante la herramienta
 Google Earth Engine. El procesamiento se llevó a cabo en el Sistema de
 Información Geográfica de software libre, QGIS.
 
+VIDEO
+
 Este video muestra la variación de los niveles de Dióxido de Nitrógeno
 (NO<sub>2</sub>) en el territorio mexicano y parte del sur de Estados
 Unidos. En México, particularmente en las principales zonas urbanas, es
@@ -64,6 +66,8 @@ al lockdown (del 1 de enero al 11 de marzo), hay una mayor presencia y
 distribución del contaminante. Mientras que, a partir del 18 de marzo,
 semana donde se dió inicio al lockdown, se observa una disminución de
 dicho contaminante (VIDEO DEL NO<sub>2</sub>).
+
+VIDEO
 
 En el siguiente video, se muestra la variación de los niveles de Dióxido
 de Azufre (SO<sub>2</sub>) a lo largo del territorio nacional y en las
