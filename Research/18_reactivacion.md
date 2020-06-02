@@ -83,7 +83,7 @@ producción nula en el subsector (véase Figura 1).
 **Producción bruta estatal del subsector 336 Fabricación de equipo de
 transporte**
 
-![](./media/image1.png)
+![Imagen1](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/18_reactivacion/image1.png?raw=true)
 
 Fuente: Elaboración propia con base en los Censos Económicos 2014.
 
@@ -113,8 +113,7 @@ por debajo del promedio nacional.
 
 **Multiplicadores del empleo y el producto por subsector**
 
-![A close up of a map Description automatically
-generated](./media/image2.png)
+![A close up of a map Description automatically generated](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/18_reactivacion/image2.png?raw=true)
 
 Fuente: Elaboración propia con base en la matriz Insumo-Producto
 Doméstica 2013 de INEGI.
@@ -163,8 +162,7 @@ energía eléctrica; y, 333 Fabricación de maquinaria y equipo.
 **Cadena de valor del subsector 336 Fabricación de equipo de
 transporte**
 
-![A screenshot of a social media post Description automatically
-generated](./media/image3.png)
+![A screenshot of a social media post Description automatically generated](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/18_reactivacion/image3.png?raw=true)
 
 Fuente: Elaboración propia con base en la matriz Insumo-Producto
 Doméstica 2013 de INEGI.
@@ -221,7 +219,7 @@ reactivación económica del país.
 **Tablero para la Toma de Decisión sobre la Reactivación Económica por
 Entidad Federativa**
 
-![](./media/image4.png)
+![Image4](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/18_reactivacion/image4.png?raw=true)
 
 Fuente: Elaboración propia.
 
