@@ -81,7 +81,7 @@ originales. Puntualmente lo que esta técnica permite es identificar qué
 tanto de las variables originales pueden ser explicadas por factores
 comunes y específicos como se indica en la siguiente ecuación:
 
-![](./media/image1.png)
+![Formula](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/19_indicadores/image1.png?raw=true)
 
 Donde Ξ sub c donde c = 1,2, …, c es el factor común que influye en la
 variación de todas las variables y delta es el factor específico que
