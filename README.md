@@ -1,9 +1,9 @@
-# Watermelon
-Watermelon is a web platform for uplaoding many of the group's activities and resources online. The source code will later be packaged and archived at /altBlog.
+# **Repositorio de articulos de investigación MexiCOVID19 **
 
-## Technologies
-Watermelon is built on the following libraries and APIs:
-* [GitHub REST API](https://developer.github.com/v3/)
-* [Showdown JS](http://www.showdownjs.com/)
-* [Highlight JS](https://highlightjs.org/)
-* [KaTeX](https://katex.org/)
+En este repositorio se encuentran todos los articulos publicados en [mexicovid19.app](mexicovid19.app/Research)
+
+Articulos por:
+- Profesores
+- Investigadores
+- Doctores
+- Organizaciones

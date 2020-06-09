@@ -80,9 +80,7 @@ precarios y piso de tierra en la vivienda.
 Así, una vez clasificadas las cuatro dimensiones, donde 1 es carente y 0
 no carente se agregan en un solo índice:
 
-\[\]
-
-![](./media/image1.png) 
+![Imagen1](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/21_NotaTecnica/image1.png?raw=true) 
 
 **Justificación de Subdimensiones**
 
