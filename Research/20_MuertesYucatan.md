@@ -39,7 +39,7 @@ del 6 de abril y hasta el 1 de mayo, las diferencias entre las cifras de
 decesos se mantuvieron con diferencias mínimas, sin superar los nueve
 casos.
 
-![](./media/image1.png)
+![Imagen1](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/20_MuertesYucatan/image1.png?raw=true)
 
 *Figure 1. Muertes Confirmadas por Covid-19 en Yucatán, muestras del 21
 de marzo del 2020 al 30 de mayo del 2020. Fuente: SSA y SSY. Elaboración
