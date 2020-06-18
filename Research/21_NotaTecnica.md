@@ -7,17 +7,17 @@ Porsen Overgaard <sup>a</sup>.
 
 Key features
 
-  - Este índice ayuda a medir la vulnerabilidad de viviendas frente al
+- Este índice ayuda a medir la vulnerabilidad de viviendas frente al
     COVID-19, popularmente llamadas, viviendas precarias.
 
-  - Se sabrá cómo la precariedad de los materiales de construcción y de
+- Se sabrá cómo la precariedad de los materiales de construcción y de
     los servicios básicos influyen en la propagación de la epidemia del
     COVID-19.
 
-  - Introduce la medición de la variable de la densidad habitacional
+- Introduce la medición de la variable de la densidad habitacional
     como factor de riesgo en la propagación de la pandemia del COVID-19.
 
-  - Se podrán realizar correlaciones entre la vulnerabilidad de la
+- Se podrán realizar correlaciones entre la vulnerabilidad de la
     vivienda con el mapeo de la dispersión de la pandemia, la pobreza y
     otras investigaciones también mapeadas.
 
@@ -305,49 +305,33 @@ Fuente: elaboración de los autores con datos de la encuesta intercensal
 
 # ***Referencias***
 
-Alkire, S., & Foster, J. (Agosto de 2011). Counting and multidimensional
-poverty measurement. *Journal of Public Economics, 95*(7-8), 476-487.
-doi:https://doi.org/10.1016/j.jpubeco.2010.11.006CONEVAL. (2018).
-*Metodología para la medición de la pobreza en México.* Ciudad de
-México, México.Florida, R. (3 de Abril de 2020). *The Geography of
-Coronavirus*. Obtenido de CityLab.com:
-https://www.citylab.com/equity/2020/04/coronavirus-spread-map-city-urban-density-suburbs-rural-data/609394/Hábitat
-para la Humanidad. (26 de 01 de 2018). *Enfermedades más comunes a causa
-de una vivienda inadecuada*. Obtenido de Hábitat para la Humanidad,
-México:
-https://www.habitatmexico.org/article/enfermedades-mas-comunes-a-causa-de-una-vivienda-inadecuadaMaclay,
-K. (10 de 03 de 2009). *Inexpensive flooring change improves child
-health in urban slums.* Obtenido de UCBerkeley, News Center:
-https://www.berkeley.edu/news/media/releases/2009/03/10\_floors.shtmlMarsh,
-A. (s.f.). *Housing and health: The nature of the connection.* Obtenido
-de http://www.radstats.org.uk/no072/article7.htmMeredith Wadman, J.
-C.-F. (17 de 04 de 2020). *How does coronavirus kill? Clinicians trace a
-ferocious rampage through the body, from brain to toes*. Obtenido de
-American Association for the Advancement of Science News.:
-https://www.sciencemag.org/news/2020/04/how-does-coronavirus-kill-clinicians-trace-ferocious-rampage-through-body-brain-toesOMS.
-(1990). *Principios de higiene de la vivienda.* Obtenido de
-https://apps.who.int/iris/bitstream/handle/10665/38629/9243561278\_spa.pdf?sequence=1OMS.
-(27 de Noviembre de 2002). *Agua para la salud: un derecho humano*.
-Obtenido de Organización Mundial de la Salud, Centro de prensa:
-https://www.who.int/mediacentre/news/releases/pr91/es/OMS. (2018).
-*Directrices de la OMS sobre vivienda y salud, resumen de orientación.*
-Obtenido de
-https://apps.who.int/iris/bitstream/handle/10665/279743/WHO-CED-PHE-18.10-spa.pdf?ua=1OMS.
-(24 de 01 de 2019). *Cobertura sanitaria universal.* Obtenido de
-Organización Mundial de la Salud, Centro de prensa:
-https://www.who.int/es/news-room/fact-sheets/detail/universal-health-coverage-(uhc)OMS.
-(14 de junio de 2019). *Oeganización Mundial de la Salud, Saneamiento*.
-Obtenido de Organización Mundial de la Salud, Centro de Prensa, Notas
-descriptivas:
-https://www.who.int/es/news-room/fact-sheets/detail/sanitationOMS.
-(2020). *Brote de enfermedad por coronavirus (COVID-19): orientaciones
-para el público*. Obtenido de Organización Mundial de la Salud,
-Emergencias sanitarias.:
-https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-publicOPS.
-(03 de 04 de 2020). *Recomencadiones clade de agua, saneamiento e
-higiene Covid-19.* Obtenido de Organización Panamericana de la Salud,
-Documentos:
-https://www.paho.org/es/documentos/recomendaciones-clave-agua-saneamiento-e-higiene-covid-19Queiros,
-C., & Mkombe, T. (2009). Consideraciones de diseño para un hogar
-saludable en A/ME. *El Foro, 16*(2), 8-9. Obtenido de
-http://www.habitat.org/lc/theforum/spanish/pdf/Foro\_Salud.pdf
+Alkire, S., & Foster, J. (Agosto de 2011). Counting and multidimensional poverty measurement. Journal of Public Economics, 95(7-8), 476-487. doi:https://doi.org/10.1016/j.jpubeco.2010.11.006
+
+CONEVAL. (2018). Metodología para la medición de la pobreza en México. Ciudad de México, México.
+
+Florida, R. (3 de Abril de 2020). The Geography of Coronavirus. Obtenido de CityLab.com: https://www.citylab.com/equity/2020/04/coronavirus-spread-map-city-urban-density-suburbs-rural-data/609394/
+
+Hábitat para la Humanidad. (26 de 01 de 2018). Enfermedades más comunes a causa de una vivienda inadecuada. Obtenido de Hábitat para la Humanidad, México: https://www.habitatmexico.org/article/enfermedades-mas-comunes-a-causa-de-una-vivienda-inadecuada
+
+Maclay, K. (10 de 03 de 2009). Inexpensive flooring change improves child health in urban slums. Obtenido de UCBerkeley, News Center: https://www.berkeley.edu/news/media/releases/2009/03/10_floors.shtml
+
+Marsh, A. (s.f.). Housing and health: The nature of the connection. Obtenido de http://www.radstats.org.uk/no072/article7.htm
+
+Meredith Wadman, J. C.-F. (17 de 04 de 2020). How does coronavirus kill? Clinicians trace a ferocious rampage through the body, from brain to toes. Obtenido de American Association for the Advancement of Science News.: https://www.sciencemag.org/news/2020/04/how-does-coronavirus-kill-clinicians-trace-ferocious-rampage-through-body-brain-toes
+
+OMS. (1990). Principios de higiene de la vivienda. Obtenido de https://apps.who.int/iris/bitstream/handle/10665/38629/9243561278_spa.pdf?sequence=1
+
+OMS. (27 de Noviembre de 2002). Agua para la salud: un derecho humano. Obtenido de Organización Mundial de la Salud, Centro de prensa: https://www.who.int/mediacentre/news/releases/pr91/es/
+
+OMS. (2018). Directrices de la OMS sobre vivienda y salud, resumen de orientación. Obtenido de https://apps.who.int/iris/bitstream/handle/10665/279743/WHO-CED-PHE-18.10-spa.pdf?ua=1
+
+OMS. (24 de 01 de 2019). Cobertura sanitaria universal. Obtenido de Organización Mundial de la Salud, Centro de prensa: https://www.who.int/es/news-room/fact-sheets/detail/universal-health-coverage-(uhc)
+
+OMS. (14 de junio de 2019). Oeganización Mundial de la Salud, Saneamiento. Obtenido de Organización Mundial de la Salud, Centro de Prensa, Notas descriptivas: https://www.who.int/es/news-room/fact-sheets/detail/sanitation
+
+OMS. (2020). Brote de enfermedad por coronavirus (COVID-19): orientaciones para el público. Obtenido de Organización Mundial de la Salud, Emergencias sanitarias.: https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public
+
+OPS. (03 de 04 de 2020). Recomencadiones clade de agua, saneamiento e higiene Covid-19. Obtenido de Organización Panamericana de la Salud, Documentos: https://www.paho.org/es/documentos/recomendaciones-clave-agua-saneamiento-e-higiene-covid-19
+
+Queiros, C., & Mkombe, T. (2009). Consideraciones de diseño para un hogar saludable en A/ME. El Foro, 16(2), 8-9. Obtenido de http://www.habitat.org/lc/theforum/spanish/pdf/Foro_Salud.pdf
+
