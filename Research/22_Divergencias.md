@@ -1,18 +1,18 @@
 **Divergencias en el conteo de casos de COVID-19 en Nuevo León por la
 Secretaría de Salud estatal y la Secretaría de Salud federal**
 
-Mónica Medellín Estrada
+Por Mónica Medellín Estrada
 
 Existen tres maneras distintas de contabilizar los contagios de COVID-19
 en el estado de Nuevo León, las cuales, con fines didácticos para la
 presente nota de investigación, se identificarán con las siguientes
 clasificaciones:
 
-1.  Cifras oficiales de la Secretaría de Salud de Nuevo León (SSNL)
+**1.** Cifras oficiales de la Secretaría de Salud de Nuevo León (SSNL)
 
-2.  Cifras totales de la SSNL
+**2.** Cifras totales de la SSNL
 
-3.  Cifras oficiales de la Secretaría de Salud (SSA) a nivel federal
+**3.** Cifras oficiales de la Secretaría de Salud (SSA) a nivel federal
 
 Con el objetivo de hacer una comparación entre los tres tipos de cifras,
 así como la manera en la que éstas se han desarrollado a lo largo de la
@@ -62,7 +62,7 @@ desglosa como lo muestra la Ilustración 1.
 
 ![Image](./media/image1.jpeg)
 
-Ilustración 1. Reporte diario de COVID-19 correspondiente al 12 de junio
+**Ilustración 1.** Reporte diario de COVID-19 correspondiente al 12 de junio
 de 2020. Fuente: Secretaría de Salud de Nuevo León
 
 Si bien es cierto que a partir del 26 de marzo la SSNL tomó la
@@ -102,7 +102,7 @@ abril de 2020 y el 12 de junio del mismo año.
 
 ![](./media/image2.png)
 
-Ilustración 2. Casos de COVID-19 en Nuevo León según cifras estatales y
+**Ilustración 2.** Casos de COVID-19 en Nuevo León según cifras estatales y
 federales del 12 de abril de 2020 al 12 de junio de 2020. Fuente:
 Secretaría de Salud de Nuevo León y Dirección General de Epidemiología.
 Elaboración propia.
@@ -149,9 +149,7 @@ realizadas en instituciones privadas, son las que demuestran un mayor
 alcance al momento de determinar la cantidad de casos de COVID-19 en
 Nuevo León.
 
-# 
-
-# **Bibliografía**
+**Bibliografía**
 
 Charles, A. (23 de Marzo de 2020). Prometen apoyos y agilizar pruebas.
 *El Norte*. Obtenido de:
