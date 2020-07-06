@@ -59,7 +59,7 @@ Gráfica 1
 Distribución de equipamiento de tecnología de información y
 comunicaciones en los hogares de México
 
-![](./media/image1.png)
+![image1](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/23_conocimiento/image1.png?raw=true)
 
 Fuente: Elaboración propia a partir de la Encuesta Nacional sobre
 Disponibilidad y Uso de Tecnologías de la Información en los Hogares
@@ -145,7 +145,7 @@ Gráfica 2
 
 Porcentaje de encuestados con cuentas en las siguientes redes sociales
 
-![](./media/image2.png)
+![Image2](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/23_conocimiento/image2.png?raw=true)
 
 Fuente: Elaboración propia a partir de la encuesta LAPOP (Cultura
 Política de la Democracia en México y en las Américas, 2018/19\[4\]
@@ -169,7 +169,7 @@ Gráfica 3
 
 Porcentaje de uso de redes sociales en México
 
-![](./media/image3.png)
+![Image3](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/23_conocimiento/image3.png?raw=true)
 
 Fuente: Elaboración propia a partir de la encuesta LAPOP (Cultura
 Política de la Democracia en México y en las Américas, 2018/19\[5\]
@@ -185,7 +185,7 @@ Imagen 1
 Porcentaje de consulta de información política en las siguientes redes
 sociales en México
 
-![](./media/image4.png)
+![Image4](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/23_conocimiento/image4.png?raw=true)
 
 Fuente: @ Barómetro de las Américas por LAPOP, 2019; vMEX19\_1.0
 
