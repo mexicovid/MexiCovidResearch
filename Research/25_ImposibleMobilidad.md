@@ -66,9 +66,9 @@ por entidad federativa. Estos datos fueron recopilados por Google
 gracias a usuarios anónimos con celulares Android y son calculados
 tomando en cuenta un periodo *baseline*.
 
-![](./media/image1.png)
+![Imagen1](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/25_ImposibleMobilidad/image1.png?raw=true)
 
-![](./media/image2.png)
+![Imagen2](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/25_ImposibleMobilidad/image2.png?raw=true)
 
 Para esta primera visualización, el promedio mensual se traduce en
 colores, donde el rojo representa menor reducción de la movilidad y el
@@ -108,7 +108,7 @@ crisis en condiciones de vulnerabilidad, y que la jornada de sana
 distancia para frenar la curva de contagios por COVID-19 sea difícil de
 ejecutar.
 
-![](./media/image3.png)
+![Imagen3](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/25_ImposibleMobilidad/image3.png?raw=true)
 
 Al comparar las tasas de pobreza en cada estado con el índice de
 informalidad laboral y los datos de movilidad correspondientes, como se
@@ -174,7 +174,7 @@ cada 100 mil habitantes, 3) Proporción de la población mayor a 65 años
 y 4) Proporción de la población mayor a 20 años con diagnóstico de
  diabetes.
 
-![](./media/image4.png)
+![Imagen4](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/25_ImposibleMobilidad/image4.png?raw=true)
 
 Analizando el gráfico 4 de correlación entre ambos índices, encontramos
 precisamente lo que detalla *México, ¿Cómo vamos?*: que los estados
@@ -215,9 +215,9 @@ bien se vio una reducción del 38% en los empleos perdidos de abril a
 mayo, es preocupante que en solo dos meses esta cifra sea más de 2.5
 veces el número de empleos formales creados y registrados ante el IMSS
 en todo el año 2019, siendo éstos 342,077 (Flores, 2020).
-![](./media/image5.png)
+![Imagen5](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/25_ImposibleMobilidad/image5.png?raw=true)
 
-![](./media/image6.png)
+![Imagen6](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/25_ImposibleMobilidad/image6.png?raw=true)
 
 Ahora bien, si se evalúa la pérdida de empleos formales por cada 100,000
 habitantes, es posible comparar mejor las cifras entre estados, y así el
@@ -264,7 +264,7 @@ Nuestro objetivo es establecer una relación entre estas tres variables
 para identificar aquellos estados donde prevalece una mayor
 vulnerabilidad para frenar los casos positivos de coronavirus.
 
-![](./media/image7.png)
+![Imagen7](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/25_ImposibleMobilidad/image7.png?raw=true)
 
 De acuerdo con el Gráfico 7, los estados que presentan un grado de
 rezago social muy alto son: Veracruz, Guerrero, Chiapas y Oaxaca, los
@@ -329,9 +329,10 @@ muchos estados de nuestro país es prácticamente imposible adoptar al pie
 de la letra todas las medidas sanitarias establecidas debido a las
 condiciones socioeconómicas de sus habitantes.
 
-El tablero y visualización completa realizada para esta investigación se
-puede consultar en:
-[<span class="underline">https://public.tableau.com/profile/ver.nica.m.rquez\#\!/vizhome/ImposiblereducirlamovilidadentodoslosestadosdeMxico/ImposiblereducirlamovilidadentodoslosestadosdeMxico</span>](https://public.tableau.com/profile/ver.nica.m.rquez#!/vizhome/ImposiblereducirlamovilidadentodoslosestadosdeMxico/ImposiblereducirlamovilidadentodoslosestadosdeMxico)
+**El tablero y visualización completa realizada para esta investigación se
+puede consultar en:**
+
+[![Image8](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/25_ImposibleMobilidad/image8.png?raw=true)](https://public.tableau.com/profile/ver.nica.m.rquez#!/vizhome/ImposiblereducirlamovilidadentodoslosestadosdeMxico/ImposiblereducirlamovilidadentodoslosestadosdeMxico)
 
 **Referencias:**
 
