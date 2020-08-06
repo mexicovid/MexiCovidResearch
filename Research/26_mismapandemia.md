@@ -1,9 +1,9 @@
-MISMA PANDEMIA, DISTINTOS ESCENARIOS
+---
+https://images.unsplash.com/photo-1531266752426-aad472b7bbf4?ixlib=rb-1.2.1&auto=format&fit=crop&w=2100&q=80*
+Jueves 6 de agosto del 2020
+---
 
-La importancia del análisis y recolección de datos para la toma de
-decisiones
-
-**Introducción**
+Por Fernanda Cavazos Alanis y Juan Antonio Muñoz Sanchez
 
 La epidemia del COVID-19 ha estado presente en todo el país, sin
 embargo, diversos factores como la ubicación geográfica, la
@@ -74,23 +74,20 @@ La tasa de letalidad es la cantidad de fallecidos por COVID-19 sobre la
 cantidad total de positivos, es decir la probabilidad de fallecimiento
 en caso de contraer el virus.
 
-Tasa de letalidad =
-\(\frac{Cantidad\ de\ Fallecimientos\ por\ COVID - 19}{\text{Cantidad\ de\ Positivos\ }}\ x\ 100\)
+![Formula1](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/26_mismapandemia/formula1.png?raw=true)
 
 La tasa de mortalidad es la proporción de personas que fallecieron de
 COVID-19 por cada 100 mil habitantes del estado o región, esta tasa nos
 indica el impacto real que tienen los fallecimientos con respecto al
 tamaño del estado. Su fórmula es:
 
-Tasa de mortalidad =
-\(\frac{Cantidad\ de\ Fallecimientos\ por\ COVID - 19}{Cada\ 100\ mil\ hab\ }\)
+![Formula2](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/26_mismapandemia/formula2.png?raw=true)
 
 La tasa de positividad es la cantidad de casos confirmados respecto a la
 cantidad de pruebas realizadas, es decir la probabilidad de que una
 persona salga positivo de COVID-19.
 
-Tasa de positividad =
-\(\frac{\text{Cantidad\ de\ Pruebas\ Positivas}}{\text{Cantidad\ de\ Pruebas}}\ x\ 100\)
+![Formula3](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/26_mismapandemia/formula3.png?raw=true)
 
 El Coeficiente C fue diseñado con el objetivo de relacionar la cantidad
 de pruebas de un Estado o Región con respecto a la cantidad de
@@ -110,8 +107,7 @@ Este coeficiente nos permite evaluar los esfuerzos que está realizando
 cada estado para tener un mayor control sobre las cifras de la pandemia
 y así realizar decisiones más acertadas.
 
-Coeficiente C =
-\(\frac{\sqrt{\text{Cantidad\ de\ las\ pruebas\ }}}{\sqrt{10\%\ de\ la\ población\ }}\)
+![Formula4](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/26_mismapandemia/formula4.png?raw=true)
 
 **Comparativo entre Estados**
 
@@ -140,7 +136,7 @@ comparación con los otros lo es. En la figura 1 podemos observar los
 estados que conforman cada grupo, así como el resultado de cada
 variable.
 
-![](./media/image1.png)
+![Imagen1](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/26_mismapandemia/image1.png?raw=true)
 
 *Figura 1. Gráfica del Comparativo entre estados*
 
@@ -173,7 +169,7 @@ Coahuila los principales actores, debido a la actividad económica. En la
 *Figura 2* podemos observar a mayor detalle las estadísticas del grupo
 1.
 
-![](./media/image2.png)
+![Imagen2](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/26_mismapandemia/image2.png?raw=true)
 
 Figura 2. Gráfica del Grupo 1
 
@@ -203,7 +199,7 @@ sureste del país.
 En la *Figura 3* podemos observar a mayor detalle las estadísticas del
 grupo 2.
 
-![](./media/image3.png)
+![Image3](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/26_mismapandemia/image3.png?raw=true)
 
 Figura 3. Gráfica del Grupo 2
 
@@ -237,7 +233,7 @@ sureste del país.
 En la *Figura 4* podemos observar a mayor detalle las estadísticas del
 grupo 3.
 
-![](./media/image4.png)
+![Image4](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/26_mismapandemia/image4.png?raw=true)
 
 Figura 4. Gráfica del Grupo 3
 
@@ -275,7 +271,7 @@ Geográficamente estos estados están ubicados en la zona Centro del país.
 En la *Figura 5* podemos observar a mayor detalle las estadísticas del
 grupo 4.
 
-![](./media/image5.png)
+![Image5](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/26_mismapandemia/image5.png?raw=true)
 
 Figura 5. Gráfica del Grupo 4
 
@@ -302,7 +298,7 @@ centro del país.
 En la *Figura 6* podemos observar a mayor detalle las estadísticas del
 grupo 5.
 
-![](./media/image6.png)
+![Image6](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/26_mismapandemia/image6.png?raw=true)
 
 Figura 6. Gráfica del Grupo 5
 
@@ -312,7 +308,7 @@ F*igura 7*. Con esto podemos observar las diferencias que presenta cada
 grupo y como es que tienen un comportamiento similar al interior de cada
 grupo.
 
-![](./media/image7.png)
+![Image7](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/26_mismapandemia/image7.png?raw=true)
 
 Figura 7. Segmentación por grupos (KMeans)
 
@@ -420,7 +416,7 @@ de Epidemiología. Recuperado de:
 INEGI (2019, octubre 31). Características de las defunciones registradas
 en México durante 2018. Disponible en:
 
-[<span class="underline">https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2019/EstSociodemo/DefuncionesRegistradas2019.pdf</span>](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2019/EstSociodemo/DefuncionesRegistradas2019.pdf)
+[<span class="underline">https://www.inegi.org.mx</span>](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2019/EstSociodemo/DefuncionesRegistradas2019.pdf)
 
 Our World Data. (2020, Agosto 4). Coronavirus (COVID-19) Testing -
 Statistics and Research. Recuperado de:
@@ -450,4 +446,4 @@ en
 
 **Anexo 1. Distribución geográfica por Grupo**
 
-![](./media/image8.png)
+![Image8](https://github.com/mexicovid/MexiCovidResearch/blob/master/Media/26_mismapandemia/image8.png?raw=true)
